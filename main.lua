@@ -1,5 +1,5 @@
--- 2013 by Christian Peeters
--- christianpeeters.com for complete tutorial
+-- 2013 by Christian Peeters -- 
+-- christianpeeters.com for complete tutorial --
 
 
 -- general stuff
